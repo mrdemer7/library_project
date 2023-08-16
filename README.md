@@ -1,5 +1,7 @@
 ##_**DISCLAIMER**_
-This project has moved maintainers and is no longer developed here. The up to date template can be found [here](https://github.com/rennemannd/MERN-Template).
+If you're facing any issues with a project that's not running, feel free to message me on LinkedIn.
+Account Link👇👇👇
+https://www.linkedin.com/in/zulqarnain-raja
 
 #### _**IMPORTANT NOTE**_ - 
 This project does not have a mongoDB connection setup. Setup the connection based on the environments below.
