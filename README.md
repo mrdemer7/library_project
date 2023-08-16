@@ -1,4 +1,4 @@
-# MERN Stack
+# MERN Stack Library project
 ##_**DISCLAIMER**_
 If you're facing any issues with a project that's not running, feel free to message me on LinkedIn.
 Account Link 👉👉👉
